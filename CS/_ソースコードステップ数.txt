@@ -1,0 +1,225 @@
+
+File Name [D:\Teams\ポートフォリオとその他\Script\AI.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class AI                          5            4         50.2
+void Start                               6            3         48.9
+void Update                              9            8         18.1
+
+File Name [D:\Teams\ポートフォリオとその他\Script\BackDifficult.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class BackDifficult               2            2          0.0
+void Start                               6            3         48.9
+void Update                              5            3         45.3
+public void OnClick                      9            9         23.8
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Clear.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             6            5          0.0
+public class Clear                      10            9          0.0
+void Start                               5            4         37.2
+void Update                             18           13         48.0
+
+File Name [D:\Teams\ポートフォリオとその他\Script\ClearTime.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class ClearTime                   5            5          0.0
+void Start                              10            7         29.5
+void Update                              6            4         39.5
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Clear_Difficult.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class Clear_Difficult             6            4         45.6
+void Start                               6            4         49.3
+void Update                             21           19         14.8
+
+File Name [D:\Teams\ポートフォリオとその他\Script\DifficultyLevel.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class DifficultyLevel             4            4          0.0
+void Start                               6            3         48.9
+void Update                             23           20         19.2
+
+File Name [D:\Teams\ポートフォリオとその他\Script\EscapeMenu.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class EscapeMenu                  6            5          0.0
+void Start                               7            5         34.2
+void Update                             29           25         38.0
+
+File Name [D:\Teams\ポートフォリオとその他\Script\EscapeMenuGame.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class EscapeMenuGame              5            4          0.0
+void Start                               6            3         48.9
+void Update                             20           19         28.5
+
+File Name [D:\Teams\ポートフォリオとその他\Script\GameOver.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             7            6          0.0
+public class GameOver                    5            4          0.0
+void Start                               5            3         54.5
+void Update                              6            3         40.0
+private void OnCollisionEnter           13           10         24.7
+
+File Name [D:\Teams\ポートフォリオとその他\Script\GetKey.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class GetKey                     11            9          0.0
+void Start                               6            4         34.7
+void Update                              5            4         30.6
+private void OnCollisionEnter           39           29         19.4
+
+File Name [D:\Teams\ポートフォリオとその他\Script\HowtoPlayUI.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class HowtoPlayUI                 5            4         23.9
+void Start                               6            4         41.3
+void Update                              5            3         40.9
+public void Onclick                     15           14         22.1
+
+File Name [D:\Teams\ポートフォリオとその他\Script\KeyCheak.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             6            4          0.0
+public class KeyCheak                   11           11          0.0
+void Start                               6            4         47.0
+void Update                              6            3         44.1
+public void OnTriggerEnter              33           28         34.1
+private void setText                     7            6         50.8
+void setspace                            6            6         24.6
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Keydisp.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class Keydisp                     6            6          0.0
+void Start                               6            3         48.9
+void Update                             12            8         36.2
+
+File Name [D:\Teams\ポートフォリオとその他\Script\KeySpawn.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class KeySpawn                   19           16         23.2
+public bool Fs                           3            3          0.0
+private set                              2            2          0.0
+public bool Ss                           5            5          0.0
+public bool Ts                           6            5          0.0
+void Start                               8            5         43.0
+void Update                              7            3         39.0
+public void KeyobjSpawn                 45           44          5.5
+public void setSecondSpawn               5            4         56.1
+public void setThirdSpawn                4            4          0.0
+public bool getFirstSpawn                5            5          0.0
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Move.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class Move                       11            7          0.0
+void Start                               7            4         32.2
+void Update                             51           32         23.6
+
+File Name [D:\Teams\ポートフォリオとその他\Script\NeedScoreM.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class NeedScoreM                  6            3         70.3
+void Start                               6            4         42.8
+void Update                              6            4         39.5
+
+File Name [D:\Teams\ポートフォリオとその他\Script\NextDifficult.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class NextDifficult               2            2          0.0
+void Start                               6            3         48.9
+void Update                              5            3         40.9
+public void OnClick                      9            9         31.3
+
+File Name [D:\Teams\ポートフォリオとその他\Script\PlayerKeyScore.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             6            5          0.0
+public class PlayerKeyScore              4            3         38.4
+public int needKey                       6            6          0.0
+public int keyscore                      5            5          0.0
+void Start                               7            5         28.2
+void Update                             27            8         70.7
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Quit.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class Quit                        2            2          0.0
+void Update                              5            3         40.9
+public void OnClick                      6            5         50.5
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Retry.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class Retry                       2            2          0.0
+void Start                               6            3         48.9
+void Update                              9            8         34.1
+
+File Name [D:\Teams\ポートフォリオとその他\Script\SceneGame.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             5            4          0.0
+public class SceneGame                   2            2          0.0
+void Update                              9            8         35.3
+
+File Name [D:\Teams\ポートフォリオとその他\Script\SettingUI.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class SettingUI                   5            4          0.0
+void Start                               6            4         41.3
+void Update                              5            3         40.9
+public void OnClick                     14           14         25.4
+
+File Name [D:\Teams\ポートフォリオとその他\Script\skyboxkurukuru.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class skyboxkurukuru              7            6          0.0
+void Start                               6            3         48.9
+void Update                              7            6         31.4
+
+File Name [D:\Teams\ポートフォリオとその他\Script\Timer.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             7            5          0.0
+public class Timer                       7            5         29.5
+public int minutE                        8            6         15.6
+public float secondS                     8            6         16.5
+void Start                               7            6          0.0
+void Update                             32           22         29.7
+
+File Name [D:\Teams\ポートフォリオとその他\Script\UnLockCursor.cs]
+モジュール名                  総ステップ数 実ステップ数 コメント[％]
+--------------------------------------------------------------------
+モジュール外                             4            3          0.0
+public class UnLockCursor                7            6          0.0
+void Start                               7            4         38.4
+void Update                             11            8         18.5
+--------------------------------------------------------------------
+全ステップ数                          1016          780         24.4
+
+クラス数                     25
+モジュール数                 70
